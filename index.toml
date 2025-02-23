@@ -4081,10 +4081,6 @@ file = "config/shieldfixes.json"
 hash = "6f11c363da0dac6c9a14c9a4067fdd73118a7b098a850eb814825e49446fd1c1"
 
 [[files]]
-file = "config/skinlayers.json"
-hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
-
-[[files]]
 file = "config/sliceanddice-client.toml"
 hash = "257fbdd7a536a41ce332c3416da84946c6825c88cb81a28ae96956f79f36e6e2"
 
