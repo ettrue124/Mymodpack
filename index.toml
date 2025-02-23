@@ -6476,7 +6476,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "c9297ce4f2d18b77e8ce81e94796f8b7e793f59f319cc574271e6e16980e23d1"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
@@ -6492,11 +6492,6 @@ metafile = true
 [[files]]
 file = "mods/create-molten-metals.pw.toml"
 hash = "3f4353d9ea3d4ef216bbcf6bc4ea11cb0c112b844646202611ebb67817b87eb6"
-metafile = true
-
-[[files]]
-file = "mods/create-oxidized.pw.toml"
-hash = "1bc091bf541009ee6b8201f2195fe3bf42aabe12bdc26e069537c44f3a207692"
 metafile = true
 
 [[files]]
@@ -6517,6 +6512,11 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "218156db91c048c38dadd218f05ba985b78f53b9fe5672c45e131e397c80bfe2"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "efa23ff6062ef28df1983e6af3fe059ddcc514cb6f3dad4392150da548c56720"
 metafile = true
 
 [[files]]
