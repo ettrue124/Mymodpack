@@ -6345,11 +6345,6 @@ file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
-metafile = true
-
-[[files]]
 file = "mods/Axiom-4.1.1-for-MC1.20.1.jar"
 hash = "6006ac92d21b6c38aac67c20dbc7617ce1a3cb99aad66d57087e478bb10ed30f"
 
@@ -6824,11 +6819,6 @@ hash = "f5077ade6b9510b3bbbd3999d7be75b6bf44a8252afb33fc795b47e043f0614a"
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d4d479b06237db08ab4db695167d05b01c58eb652d0ca775a6718bd88a36b9a8"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "553d028f83c3e814df5220a8576628b6d80e1a2f1bfb18f939b3a5157b3d2746"
 metafile = true
 
 [[files]]
