@@ -1,0 +1,13 @@
+name = "MyFabricModpack"
+author = "Ethan"
+version = "1.20.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "004ffb2a3da49b7279025ba488b94e40bd068e40cfbd11e362912f8790298cf4"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
