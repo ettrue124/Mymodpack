@@ -6345,6 +6345,11 @@ file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
+metafile = true
+
+[[files]]
 file = "mods/Axiom-4.1.1-for-MC1.20.1.jar"
 hash = "6006ac92d21b6c38aac67c20dbc7617ce1a3cb99aad66d57087e478bb10ed30f"
 
@@ -6775,7 +6780,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ab34cef75a406dfa31de7c074886a7a7f85e54d0d2fd4b6e54956bb633a857a0"
+hash = "e3aba078ee7198fe064fd970c7304eb6de18fc3e2c9eb3bf2ba123b907e0f1c3"
 metafile = true
 
 [[files]]
@@ -6799,7 +6804,7 @@ hash = "918eee417b2c62763ad11ee9ab105715b7abcc92d099e2ef35c338286b7c4f84"
 
 [[files]]
 file = "mods/resource-downloader.pw.toml"
-hash = "78690e842abdab1a53cde7746c6c8abacf7cecc8460b46592ae97352afa8ba3b"
+hash = "45aab8efad7e552e7bdd700d0dc0d1bbd6c8b1f22bec25e45579839e4d165033"
 metafile = true
 
 [[files]]
@@ -6855,7 +6860,7 @@ hash = "c5833e3bb951fc2a06ab50e4b0693f4689328dca667497fd65764ccdce5b62db"
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "5a047ff5147346d77bc6fe06e864e78f0929b21ba681a60d83c7ba34ff59ed3c"
+hash = "8a37fcac261932aa94595891b5beebc2f2bd6fae4c58129e90ffe57fb5def381"
 metafile = true
 
 [[files]]

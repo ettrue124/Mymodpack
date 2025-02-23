@@ -1,13 +1,13 @@
 name = "Resource Downloader"
 filename = "rpdl-fabric-1.20-3.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "30828f21d3f509587c979294f204085be87f6585"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6AED3bx1/versions/ta4IoHfK/rpdl-fabric-1.20-3.0.3.jar"
+hash-format = "sha512"
+hash = "47a2ac1affdc2c3f325caa3c2b89a51248debe04861943c22c030d14b9e06a8db1f53aaf1b375eed0e5714c37e60f01622d6595abaa56f7392c49b7a62dde5a7"
 
 [update]
-[update.curseforge]
-file-id = 5076708
-project-id = 968388
+[update.modrinth]
+mod-id = "6AED3bx1"
+version = "ta4IoHfK"
