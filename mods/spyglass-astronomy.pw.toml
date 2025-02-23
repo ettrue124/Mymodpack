@@ -1,0 +1,13 @@
+name = "Spyglass Astronomy"
+filename = "spyglass_astronomy-1.0.15-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "812fd26feff8a2329711841a1ade7074d5a95882"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5884900
+project-id = 822372

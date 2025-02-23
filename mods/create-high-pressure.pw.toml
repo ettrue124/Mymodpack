@@ -1,0 +1,13 @@
+name = "Create: High Pressure"
+filename = "create_high_pressure-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ce3772476ae3769d13bf64e2725d949edbf26f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5800526
+project-id = 1118946
