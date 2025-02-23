@@ -6345,6 +6345,11 @@ file = "config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
+metafile = true
+
+[[files]]
 file = "mods/Axiom-4.1.1-for-MC1.20.1.jar"
 hash = "6006ac92d21b6c38aac67c20dbc7617ce1a3cb99aad66d57087e478bb10ed30f"
 
